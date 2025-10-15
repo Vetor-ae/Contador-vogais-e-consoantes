@@ -10,18 +10,17 @@ class Program
         int cons = 0;
         foreach (char caracter in frase)
         {
-            for (int i = 0; i < vogais.Length; i++)
+            if (caracter == 'a' || caracter == 'e' || caracter == 'i' || caracter == 'o' || caracter == 'u')
             {
-                if (caracter == vogais[i])
-                {
-                    vog++;
-                }
-                else
-                {
-                    cons++;
-                } 
+                vog++;
+            }
+            else
+            {
+                cons++;
             }
         }
         Console.WriteLine($"Qnt. de vogais = {vog}\nQnt. de consoantes = {cons}");
     }
 }
+
+//for (int i = 0; i<vogais.Length;i++)
