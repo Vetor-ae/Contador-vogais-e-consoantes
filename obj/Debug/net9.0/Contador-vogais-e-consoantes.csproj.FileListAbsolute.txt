@@ -1,0 +1,15 @@
+C:\Users\vitor\OneDrive\Documentos\Contador-vogais-e-consoantes\bin\Debug\net9.0\Contador-vogais-e-consoantes.exe
+C:\Users\vitor\OneDrive\Documentos\Contador-vogais-e-consoantes\bin\Debug\net9.0\Contador-vogais-e-consoantes.deps.json
+C:\Users\vitor\OneDrive\Documentos\Contador-vogais-e-consoantes\bin\Debug\net9.0\Contador-vogais-e-consoantes.runtimeconfig.json
+C:\Users\vitor\OneDrive\Documentos\Contador-vogais-e-consoantes\bin\Debug\net9.0\Contador-vogais-e-consoantes.dll
+C:\Users\vitor\OneDrive\Documentos\Contador-vogais-e-consoantes\bin\Debug\net9.0\Contador-vogais-e-consoantes.pdb
+C:\Users\vitor\OneDrive\Documentos\Contador-vogais-e-consoantes\obj\Debug\net9.0\Contador-vogais-e-consoantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\OneDrive\Documentos\Contador-vogais-e-consoantes\obj\Debug\net9.0\Contador-vogais-e-consoantes.AssemblyInfoInputs.cache
+C:\Users\vitor\OneDrive\Documentos\Contador-vogais-e-consoantes\obj\Debug\net9.0\Contador-vogais-e-consoantes.AssemblyInfo.cs
+C:\Users\vitor\OneDrive\Documentos\Contador-vogais-e-consoantes\obj\Debug\net9.0\Contador-vogais-e-consoantes.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Documentos\Contador-vogais-e-consoantes\obj\Debug\net9.0\Contador-vogais-e-consoantes.sourcelink.json
+C:\Users\vitor\OneDrive\Documentos\Contador-vogais-e-consoantes\obj\Debug\net9.0\Contador-vogais-e-consoantes.dll
+C:\Users\vitor\OneDrive\Documentos\Contador-vogais-e-consoantes\obj\Debug\net9.0\refint\Contador-vogais-e-consoantes.dll
+C:\Users\vitor\OneDrive\Documentos\Contador-vogais-e-consoantes\obj\Debug\net9.0\Contador-vogais-e-consoantes.pdb
+C:\Users\vitor\OneDrive\Documentos\Contador-vogais-e-consoantes\obj\Debug\net9.0\Contador-vogais-e-consoantes.genruntimeconfig.cache
+C:\Users\vitor\OneDrive\Documentos\Contador-vogais-e-consoantes\obj\Debug\net9.0\ref\Contador-vogais-e-consoantes.dll
