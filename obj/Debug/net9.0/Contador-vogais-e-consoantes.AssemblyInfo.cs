@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Contador-vogais-e-consoantes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba12f0738b86b63791d18b9f262d5c1883049c63")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+abf08676af8f9f6b115cc1c689bd24369d79499e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Contador-vogais-e-consoantes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Contador-vogais-e-consoantes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

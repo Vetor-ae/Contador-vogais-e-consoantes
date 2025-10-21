@@ -5,22 +5,24 @@ class Program
     {
         Console.WriteLine("Digite o que quiser(palavras, frases, sentencas,...):");
         string frase = Console.ReadLine().ToLower();
-        char[] vogais = ['a', 'e', 'i', 'o', 'u'];
+        char[] exc = [' ', ',', '.'];
         int vog = 0;
         int cons = 0;
-        foreach (char caracter in frase)
+        string[] lunch = frase.Split(exc);
+        foreach (string pal in lunch)
         {
-            if (caracter == 'a' || caracter == 'e' || caracter == 'i' || caracter == 'o' || caracter == 'u')
+            foreach (char caracter in pal)
             {
-                vog++;
-            }
-            else
-            {
-                cons++;
+                if (caracter == 'a' || caracter == 'e' || caracter == 'i' || caracter == 'o' || caracter == 'u')
+                {
+                    vog++;
+                }
+                else
+                {
+                    cons++;
+                }
             }
         }
         Console.WriteLine($"Qnt. de vogais = {vog}\nQnt. de consoantes = {cons}");
     }
 }
-
-//for (int i = 0; i<vogais.Length;i++)
